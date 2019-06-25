@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Annotation profile for softwareGame" enabled="true">
+        <sourceOutputDir name="output/generated-sources/annotations" />
+        <sourceTestOutputDir name="output/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="softwareGame" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="softwareGame" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
